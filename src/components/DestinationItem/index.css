@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+.place-card-details {
+    list-style-type: none;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #1E5128;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 12px;
+  }
+  
+  .image {
+    width: 235px;
+    height: 175px;
+    border-radius: 10px;
+  }
+  
+  .place-name {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: #D8E9A8;
+    font-weight: 400;
+  }
+  
